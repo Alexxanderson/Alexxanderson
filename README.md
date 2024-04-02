@@ -1,7 +1,10 @@
-<iframe src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="480" height="208" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8">via GIPHY</a></p>
+<p align="center">
+ <img src="hello_there.gif" alt="Hello There" />
+</p>
+
 
 <h1 align="center">Hello There! My name is Bien Aaron C. Miranda</h1>
-<h3 align="center">An aspiring data science student studying at De La Salle University</h3>
+<h3 align="center">Future Computer Scientist with a Passion for Data Science, Analytics, Finance, and Logistics - De La Salle University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxanderson&label=Profile%20views&color=0e75b6&style=flat" alt="alexxanderson" /> </p>
 
