@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/_bamiranda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_bamiranda_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bienaaronmiranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bienaaronmiranda" height="30" width="40" /></a>
-<a href="https://fb.com/bienahahron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bienahahron" height="30" width="40" /></a>
+<a href="https://fb.com/bien.aaron.miranda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bienahahron" height="30" width="40" /></a>
 <a href="https://instagram.com/ven_miranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ven_miranda" height="30" width="40" /></a>
 <a href="https://discord.gg/reonne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="reonne" height="30" width="40" /></a>
 </p>
@@ -25,5 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexxanderson&show_icons=true&locale=en&layout=compact" alt="alexxanderson" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexxanderson&show_icons=true&locale=en" alt="alexxanderson" /></p> 
---> 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexxanderson&" alt="alexxanderson" /></p>
+--> 
