@@ -3,8 +3,8 @@
 </p>
 
 
-<h1 align="center">Hello There! My name is Bien Aaron C. Miranda</h1>
-<h3 align="center">Future Computer Scientist with a Passion for Data Science, Analytics, Finance, and Logistics - De La Salle University</h3>
+<h1 align="center">Hello There! I'm Bien Miranda</h1>
+<!-- <h3 align="center">Future Computer Scientist with a Passion for Data Science, Analytics, Finance, and Logistics - De La Salle University</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxanderson&label=Profile%20views&color=0e75b6&style=flat" alt="alexxanderson" /> </p>
 
