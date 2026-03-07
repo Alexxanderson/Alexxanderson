@@ -27,13 +27,17 @@ or email me in:
 
 ## Around the web
 
-- [Twitter](https://twitter.com/_bamiranda_)
-- [LinkedIn](https://linkedin.com/in/bienaaronmiranda)
-- [Facebook](https://fb.com/bien.aaron.miranda/)
-- [Instagram](https://instagram.com/ven_miranda)
-- [Discord](https://discord.gg/reonne)
+<div align="left">
+  <a href="https://twitter.com/_bamiranda_" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" /></a>
+  <a href="https://linkedin.com/in/bienaaronmiranda" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  <a href="https://fb.com/bien.aaron.miranda/" target="blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" /></a>
+  <a href="https://instagram.com/ven_miranda" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
+  <a href="https://discord.gg/reonne" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
+  <a href="mailto:bienaaronmiranda@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+</div>
 
-## Tech Stack
+<details>
+<summary><h2>Tech Stack</h2></summary>
 
 **Languages**
 
@@ -55,16 +59,24 @@ or email me in:
 - n8n
 - Rust (testing it out)
 
-## GitHub Stats
+</details>
+
+<details>
+<summary><h2>GitHub Stats</h2></summary>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxanderson&label=Profile%20views&color=0e75b6&style=flat" alt="alexxanderson" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexxanderson&show_icons=true&locale=en&layout=compact" alt="alexxanderson" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexxanderson&show_icons=true&locale=en&layout=compact" alt="alexxanderson" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexxanderson&show_icons=true&locale=en" alt="alexxanderson" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexxanderson&show_icons=true&locale=en" alt="alexxanderson" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexxanderson&" alt="alexxanderson" /></p>
 
-## Timeline _(soon)_
+</details>
+
+<details>
+<summary><h2>Timeline <em>(soon)</em></h2></summary>
 
 > A table of my projects on a per-year basis — coming soon!
+
+</details>
