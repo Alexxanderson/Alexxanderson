@@ -36,7 +36,7 @@ or email me in:
 </div>
 
 <details>
-<summary><h2>Tech Stack</h2></summary>
+<summary><h3>Tech Stack</h3></summary>
 
 **Desktop Development Technologies I've Built With 💻**
 
@@ -74,14 +74,14 @@ or email me in:
 </details>
 
 <details>
-<summary><h2>Stats</h2></summary>
+<summary><h3>Stats</h3></summary>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxanderson&label=Profile%20views&color=0e75b6&style=flat" alt="alexxanderson" /> </p>
 
 </details>
 
 <details>
-<summary><h2>Timeline <em>(soon)</em></h2></summary>
+<summary><h3>Timeline <em>(soon)</em></h3></summary>
 
 > A table of my projects on a per-year basis — coming soon!
 
