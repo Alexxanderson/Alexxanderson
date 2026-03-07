@@ -72,14 +72,12 @@ or email me in:
 - Rust (testing it out)
 
 </details>
-
 <details>
 <summary><h3>Stats</h3></summary>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxanderson&label=Profile%20views&color=0e75b6&style=flat" alt="alexxanderson" /> </p>
 
 </details>
-
 <details>
 <summary><h3>Timeline <em>(soon)</em></h3></summary>
 
