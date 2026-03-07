@@ -1,11 +1,11 @@
 <p align="center">
- <img src="hello_there.gif" alt="Hello There" />
+ <img src="hello_there.gif" alt="Hello There" width="300" />
 </p>
 
 <!-- <h1 align="center">Hello There! I'm Bien</h1>
 <h3 align="center">Future Computer Scientist with a Passion for Data Science, Analytics, Finance, and Logistics - De La Salle University</h3> -->
 
-# Hello there! I'm Bien👋
+## Hello there! I'm Bien👋
 
 **Open source is beautiful.** I deeply appreciate the people who build and share things openly with the world.
 
