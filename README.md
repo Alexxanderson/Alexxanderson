@@ -40,9 +40,7 @@ or email me in:
 
 **Desktop Development Technologies I've Built With 💻**
 
-- Python
-- Java
-- C, C++
+- Python, Java, C, C++
 - and a little bit of Go, R, and Ruby
 
 **WebDev Technologies I've Built With 🌐**
