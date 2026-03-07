@@ -11,6 +11,7 @@ Lately, I've been fascinated by ideas around [Ubiquitous Computing](https://en.w
 Recently graduated from [De La Salle University](https://old.dlsu.edu.ph/colleges/ccs/undergraduate-degree-programs/cs-st/) and am currently planning the major things ahead.🙏
 
 I showcase more of my stuff in my website, check it out!👇
+
 [aaronmiranda.site](https://www.aaronmiranda.site/)
 
 or email me in:
