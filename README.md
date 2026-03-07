@@ -8,7 +8,7 @@
 
 Lately, I've been fascinated by ideas around [Ubiquitous Computing](https://en.wikipedia.org/wiki/Ubiquitous_computing), the [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self), and [Crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing), especially how technology can quietly integrate into our everyday life and help people make better decisions through data. I've also previously explored areas like Data Analytics, FinTech, and Logistics Planning. Do talk to me around these topics!
 
-Recently graduated from [De La Salle University](https://www.dlsu.edu.ph/colleges/ccs/undergraduate-degree-programs/cs-st/) and am currently planning the major things ahead.🙏
+Recently graduated from [De La Salle University](https://old.dlsu.edu.ph/colleges/ccs/undergraduate-degree-programs/cs-st/) and am currently planning the major things ahead.🙏
 
 I showcase more of my stuff in my website, check it out!👇
 
@@ -18,14 +18,14 @@ or email me in:
 [bienaaronmiranda@gmail.com](mailto:bienaaronmiranda@gmail.com)
 [bien@aaronmiranda.site](mailto:bien@aaronmiranda.site)
 
-<h2> Projects📌 </h2>
+<h3> Projects📌 </h3>
 
 - WeCyclePH
   - WeCyclePH Mobile
 - BoxCrib
 - BikeSafe
 
-<h2> Around the web </h2>
+<h3> Around the web </h3>
 
 <div align="left">
   <a href="https://twitter.com/_bamiranda_" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" /></a>
