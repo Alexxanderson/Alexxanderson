@@ -18,14 +18,14 @@ or email me in:
 [bienaaronmiranda@gmail.com](mailto:bienaaronmiranda@gmail.com)
 [bien@aaronmiranda.site](mailto:bien@aaronmiranda.site)
 
-## Projects
+<h2> Projects📌 </h2>
 
 - WeCyclePH
   - WeCyclePH Mobile
 - BoxCrib
 - BikeSafe
 
-## Around the web
+<h2> Around the web </h2>
 
 <div align="left">
   <a href="https://twitter.com/_bamiranda_" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" /></a>
@@ -38,34 +38,24 @@ or email me in:
 <details>
 <summary><h2>Tech Stack</h2></summary>
 
-<details>
-<summary><b>Desktop Development Technologies I've Built With 💻</b></summary>
+**Desktop Development Technologies I've Built With 💻**
 
 - Python
 - Java
 - C, C++
 - and a little bit of Go, R, and Ruby
 
-</details>
-
-<details>
-<summary><b>WebDev Technologies I've Built With 🌐</b></summary>
+**WebDev Technologies I've Built With 🌐**
 
 - Next.js, React, TypeScript, Tailwind CSS, Node.js, Express
 - AWS, Firebase, Supabase
 
-</details>
-
-<details>
-<summary><b>Mobile Development Technologies I've Built With 📱</b></summary>
+**Mobile Development Technologies I've Built With 📱**
 
 - Kotlin
 - React Native
 
-</details>
-
-<details>
-<summary><b>Technologies I Used for AI & Data Science 📊</b></summary>
+**Technologies I Used for AI & Data Science 📊**
 
 - ML Stack
   - Data Wrangling: Pandas, NumPy, Polars, SciPy (Statistical Analysis)
@@ -73,23 +63,15 @@ or email me in:
   - Modeling: Logistic Regression, Random Forest, Gradient Boosting, Decision Trees
   - Visualization: Matplotlib, Seaborn, Plotly
 
-</details>
+**Technologies I Used for Ethical Hacking 🔐**
 
-<details>
-<summary><b>Technologies I Used for Ethical Hacking 🔐</b></summary>
-
-- Environment: Kali Linux / Parrot OS
+- Environment: Kali Linux
 - Nmap, OpenVAS, Burp Suite, SQLmap, Wireshark, John the Ripper, Hashcat
 
-</details>
-
-<details>
-<summary><b>Technologies I'm Currently Learning 🌱</b></summary>
+**Technologies I'm Currently Learning 🌱**
 
 - n8n
 - Rust (testing it out)
-
-</details>
 
 </details>
 
