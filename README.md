@@ -2,26 +2,22 @@
  <img src="hello_there.gif" alt="Hello There" width="300" />
 </p>
 
-<!-- <h1 align="center">Hello There! I'm Bien</h1>
-<h3 align="center">Future Computer Scientist with a Passion for Data Science, Analytics, Finance, and Logistics - De La Salle University</h3> -->
-
-## Hello there! I'm Bien👋
+# Hello there! I'm Bien👋
 
 **Open source is beautiful.** I deeply appreciate the people who build and share things openly with the world.
 
-Lately, I’ve been fascinated by ideas around Ubiquitous Computing, the Quantified Self, and Crowdsourcing, especially how technology can quietly integrate into our everyday life and help people make better decisions through data. I’ve also previously explored areas like Data Analytics, FinTech, and Logistics Planning. Do talk to me around these topics!
+Lately, I've been fascinated by ideas around [Ubiquitous Computing](https://en.wikipedia.org/wiki/Ubiquitous_computing), the [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self), and [Crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing), especially how technology can quietly integrate into our everyday life and help people make better decisions through data. I've also previously explored areas like Data Analytics, FinTech, and Logistics Planning. Do talk to me around these topics!
 
-Recently graduated from De La Salle University and am currently planning the major things ahead.
+Recently graduated from [De La Salle University](https://www.dlsu.edu.ph/colleges/ccs/undergraduate-degree-programs/cs-st/) and am currently planning the major things ahead.
 
-// a call to reach out
 I showcase more of my stuff in my website, check it out!
-aaronmiranda.site
+[aaronmiranda.site](https://www.aaronmiranda.site/)
 
 or email me in:
-bienaaronmiranda@gmail.com
-bien@aaronmiranda.site
+[bienaaronmiranda@gmail.com](mailto:bienaaronmiranda@gmail.com)
+[bien@aaronmiranda.site](mailto:bien@aaronmiranda.site)
 
-Projects
+## Projects
 
 - WeCyclePH
   - WeCyclePH Mobile
