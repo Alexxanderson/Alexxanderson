@@ -79,12 +79,7 @@ or email me in:
 <summary><b>Technologies I Used for Ethical Hacking 🔐</b></summary>
 
 - Environment: Kali Linux / Parrot OS
-- Reconnaissance & OSINT: Nmap, Whois, theHarvester, Maltego
-- Vulnerability Assessment: Nessus, OpenVAS, Nikto
-- Web Application Security: Burp Suite, OWASP ZAP, SQLmap, DirBuster
-- Exploitation Frameworks: Metasploit (MSF), BeEF (Browser Exploitation)
-- Network & Wireless: Wireshark (Protocol Analysis), Aircrack-ng, Bettercap
-- Password Attacks: John the Ripper, Hashcat, Hydra
+- Nmap, OpenVAS, Burp Suite, SQLmap, Wireshark, John the Ripper, Hashcat
 
 </details>
 
@@ -99,11 +94,9 @@ or email me in:
 </details>
 
 <details>
-<summary><h2>GitHub Stats</h2></summary>
+<summary><h2>Stats</h2></summary>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxanderson&label=Profile%20views&color=0e75b6&style=flat" alt="alexxanderson" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexxanderson&" alt="alexxanderson" /></p>
 
 </details>
 
