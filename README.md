@@ -8,10 +8,9 @@
 
 Lately, I've been fascinated by ideas around [Ubiquitous Computing](https://en.wikipedia.org/wiki/Ubiquitous_computing), the [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self), and [Crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing), especially how technology can quietly integrate into our everyday life and help people make better decisions through data. I've also previously explored areas like Data Analytics, FinTech, and Logistics Planning. Do talk to me around these topics!
 
-Recently graduated from [De La Salle University](https://old.dlsu.edu.ph/colleges/ccs/undergraduate-degree-programs/cs-st/) and am currently planning the major things ahead.🙏
+Recently graduated from [De La Salle University](https://old.dlsu.edu.ph/colleges/ccs/undergraduate-degree-programs/cs-st/) and am currently planning major things ahead.🙏
 
-I showcase more of my stuff in my website, check it out!👇
-
+I showcase more of my stuff in my website, check it out!👉
 [aaronmiranda.site](https://www.aaronmiranda.site/)
 
 or email me in:
