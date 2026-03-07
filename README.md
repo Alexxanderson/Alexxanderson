@@ -45,13 +45,12 @@ or email me in:
 
 **WebDev Technologies I've Built With 🌐**
 
-- Next.js, React, TypeScript, Tailwind CSS, Node.js, Express
-- AWS, Firebase, Supabase
+- Next.js, Vue.js 2, React, TypeScript, Tailwind CSS, Node.js, Express
+- Firebase, Supabase, SQL, AWS
 
 **Mobile Development Technologies I've Built With 📱**
 
-- Kotlin
-- React Native
+- Kotlin, React Native
 
 **Technologies I Used for AI & Data Science 📊**
 
